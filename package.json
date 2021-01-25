@@ -1,0 +1,17 @@
+{
+  "name": "laurie-garvey",
+  "version": "1.0.0",
+  "description": "laurie-garvey-store",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Christopher Roman",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "lite-server": "^2.6.1"
+  }
+}
